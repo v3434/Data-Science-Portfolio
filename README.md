@@ -1,4 +1,6 @@
-# Analyzing Waze User Churn: A Project Overview
+# Analyzing Waze User Churn
+
+Project Overview :
 
 The User Churn Analysis project aimed to tackle the issue of declining user retention within the Waze navigation app. With the overarching goal of reducing monthly user churn, the project utilized a combination of data analytics and machine learning techniques to delve into user behavior patterns and identify key drivers of churn.
 
