@@ -1,6 +1,6 @@
 # Analyzing Waze User Churn
 
-Project Overview :
+## Overview 
 
 The User Churn Analysis project aimed to tackle the issue of declining user retention within the Waze navigation app. With the overarching goal of reducing monthly user churn, the project utilized a combination of data analytics and machine learning techniques to delve into user behavior patterns and identify key drivers of churn.
 
@@ -12,3 +12,19 @@ The project was divided into 4 components :
 4. ML modelling using ensemble learning (Random Forest Classifier and XGBoost classifier)
 
  The User Churn Analysis project unveiled valuable insights into user churn within the Waze app. Leveraging advanced data analytics, data visualization and ensemble machine learning, the project identified key drivers of churn and developed effective mitigation strategies. these insights can be used to enhance user retention and drive the app's overall growth. 
+
+## Business Understanding :
+User churn analysis helps businesses identify reasons for customer attrition, allowing them to optimize retention strategies. It aids in understanding user behavior patterns, enhancing product/service offerings, improving customer satisfaction, and ultimately boosting profitability through increased customer loyalty and reduced churn rates.
+
+## Data Understanding :
+* The more times users used the app, the less likely they were to churn. While 40% of the users who didn't use the app at all last month churned, nobody who used the app 30 days churned.
+* The churn rate is highest for people who didn't use Waze much during the last month.
+* The proportion of churned users to retained users is consistent between device types.
+* Number of driving days had a negative correlation with churn. Users who drove more days of the last month were less likely to churn.
+* Nearly all the variables were either very right-skewed or uniformly distributed. 
+For the right-skewed distributions, this means that most users had values in the lower end of the range for that variable. 
+For the uniform distributions, this means that users were generally equally likely to have values anywhere within the range for that variable.
+
+## Conclusion 
+For detailed explanation about the insigts discovered and results obtained from predictive analysis , hypothesis testing , statistical analysis , Data visualization and Exploratory data analytics refer the executive summery report made for each component of the project .
+
