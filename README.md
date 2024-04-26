@@ -27,12 +27,19 @@ For the uniform distributions, this means that users were generally equally like
 
 ## Infographics :
 ![image](https://github.com/v3434/User-Churn-Analysis/assets/70278692/cf97a8f7-fb5e-4426-9858-9845da5f7fc4)
+
 Image 1 : Confusion matrix of the champion model's(XGBhoost Classifier) predictions on the test data.
+
 ![image](https://github.com/v3434/User-Churn-Analysis/assets/70278692/b1d8f929-7343-4da2-b69c-15c502fd732b)
+
 Image 2 : As recall increases, precision decreases. a false positive could just mean that a user who will not actually churn gets an email and a banner notification on their phone. It's very low risk.
+
 ![image](https://github.com/v3434/User-Churn-Analysis/assets/70278692/c264acff-4e30-4fc9-a9ca-fd635e24e7a0)
+
 Image 3 : Feature Importance
+
 ![image](https://github.com/v3434/User-Churn-Analysis/assets/70278692/fc6fae64-becf-49f9-b217-2c35bff3d99f)
+
 Table 1 : Result Table with final Metrics
 
 
